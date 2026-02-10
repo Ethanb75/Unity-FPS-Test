@@ -15,3 +15,5 @@ https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#main
 ```sh
 uvx --prerelease explicit --from "mcpforunityserver>=0.0.0a0" mcp-for-unity --transport http --http-url http://localhost:8080 --project-scoped-tools
 ```
+
+then, In Unity: Window > MCP for Unity > Toggle MCP Window
